@@ -1,6 +1,11 @@
 # md5-cracked
 many files with md5 hash values and passwords
 
+## WARNING:
+
+Do not clone this repo, because it could be huge and fill your memory!
+
+
 ## HOW TO USE IT:
 
 1. go to values folder;
