@@ -1,0 +1,1 @@
+root,auth_rhosts2: clientuser %s hostname %s ipaddr %s
